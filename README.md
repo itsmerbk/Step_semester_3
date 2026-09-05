@@ -29,3 +29,12 @@ Start Week 2 assignment problems on String manipulation and validation.
 
 **Issues Faced:**
 - None
+## Date: 30-08-2026
+**Today's Work:**
+Completed Session 4 assignment problems on constructor validation, this() chaining, custom sorting, final/surge fee calculation, and account reconciliation.
+
+**Next Session Plan:**
+Begin Session 5 topics.
+
+**Issues Faced:**
+- None
