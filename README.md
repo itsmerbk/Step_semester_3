@@ -27,7 +27,7 @@
 **Issues Faced:**
 - None
 
-## Date: 03-10-2026
+## Date: 03-10-2026 (Session 6)
 
 **Today's Work:** Completed Session 6 assignment covering single, multilevel, and hierarchical inheritance, polymorphic methods, and method overriding.
 
@@ -36,7 +36,7 @@
 **Issues Faced:**
 - None
 
-## Date: 29-08-2026
+## Date: 29-08-2026 (Session 3)
 **Today's Work:**
 Completed Session 3 OOP assignment problems (BookIssue, EmployeeHierarchy, ParkingSlotManager, LibraryMembershipSystem, CompanyHrParkingSystem).
 
@@ -46,7 +46,7 @@ Begin Session 4 topics.
 **Issues Faced:**
 - None
 
-## Date: 28-08-2026
+## Date: 28-08-2026 (Session 2)
 **Today's Work:**
 Completed Session 2 class and assignment problems on Strings (ReverseString, PalindromeCheck, AnagramCheck, CountVowelsConsonants).
 
@@ -56,7 +56,7 @@ Begin Session 3 topics.
 **Issues Faced:**
 - None
 
-## Date: 27-08-2026
+## Date: 27-08-2026 (Session 1)
 **Today's Work:**
 Completed Week 1 assignment problems covering arrays, nested loops, and character scanning.
 
