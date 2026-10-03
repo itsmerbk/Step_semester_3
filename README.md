@@ -1,5 +1,14 @@
 # Step_semester_3
 
+## Date: 03-10-2026 (Session 8)
+
+**Today's Work:** Completed Session 8 Object-Oriented System Design assignments covering complex class interactions, interfaces, composition, and state management.
+
+**Next Session Plan:** Begin Session 9 topics.
+
+**Issues Faced:**
+- None
+
 ## Date: 03-10-2026 (Session 7)
 
 **Today's Work:** Completed Session 7 assignment covering abstract classes, interfaces, multiple implementation, and polymorphic method resolution.
