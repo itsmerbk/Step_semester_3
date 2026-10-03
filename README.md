@@ -1,5 +1,14 @@
 # Step_semester_3
 
+## Date: 03-10-2026
+
+**Today's Work:** Completed Session 6 assignment covering single, multilevel, and hierarchical inheritance, polymorphic methods, and method overriding.
+
+**Next Session Plan:** Begin Session 7 topics.
+
+**Issues Faced:**
+- None
+
 ## Date: 29-08-2026
 **Today's Work:**
 Completed Session 3 OOP assignment problems (BookIssue, EmployeeHierarchy, ParkingSlotManager, LibraryMembershipSystem, CompanyHrParkingSystem).
