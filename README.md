@@ -1,5 +1,14 @@
 # Step_semester_3
 
+## Date: 03-10-2026 (Session 9)
+
+**Today's Work:** Completed Session 9 Data Structures assignments covering arrays, hashing, sliding window, prefix sums, and binary search.
+
+**Next Session Plan:** Begin Session 10 topics.
+
+**Issues Faced:**
+- None
+
 ## Date: 03-10-2026 (Session 8)
 
 **Today's Work:** Completed Session 8 Object-Oriented System Design assignments covering complex class interactions, interfaces, composition, and state management.
